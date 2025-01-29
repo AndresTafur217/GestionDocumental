@@ -1,0 +1,31 @@
+﻿@model string
+@{
+    Layout = null;
+}
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+<div class="container d-flex justify-content-center align-items-center" style="height: 100vh;">
+    <div class="col-md-6 col-lg-4">
+        <div class="card shadow-lg rounded-4">
+            <div class="card-header text-center">
+                <h2 class="mb-0">Cambiar Contraseña</h2>
+            </div>
+            <div class="card-body">
+                <form asp-action="CambiarContraseña" method="post">
+                    <input type="hidden" name="correo" value="@ViewBag.Correo" />
+                    <div class="mb-3">
+                        <label for="nuevaContraseña" class="form-label">Nueva Contraseña</label>
+                        <input type="password" id="nuevaContraseña" name="nuevaContraseña" required class="form-control" placeholder="Ingrese su nueva contraseña" />
+                    </div>
+                    <div class="d-grid gap-2">
+                        <button type="submit" class="btn btn-primary">Cambiar Contraseña</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

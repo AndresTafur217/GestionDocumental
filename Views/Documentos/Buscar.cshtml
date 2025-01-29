@@ -1,0 +1,110 @@
+﻿@model DocumentoSearchViewModel
+<div class="container mt-4">
+    <h2>Búsqueda de Documentos</h2>
+    <form asp-action="Buscar" method="post">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="form-group">
+                    <label asp-for="NombreDocumento">Nombre del Documento</label>
+                    <input asp-for="NombreDocumento" class="form-control" />
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="form-group">
+                    <label asp-for="NombreUsuario">Nombre del Usuario</label>
+                    <input asp-for="NombreUsuario" class="form-control" />
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="form-group">
+                    <label asp-for="CategoriaId">Categoría</label>
+                    <select asp-for="CategoriaId" class="form-control">
+                        <option value="">-- Seleccione Categoría --</option>
+                        @foreach (var categoria in Model.Categorias)
+                        {
+                            <option value="@categoria.Id">@categoria.Nombre</option>
+                        }
+                    </select>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="form-group">
+                    <label asp-for="FechaInicio">Fecha</label>
+                    <input asp-for="FechaInicio" type="date" class="form-control" />
+                </div>
+            </div>
+        </div>
+        <div class="row mt-3">
+            <div class="col">
+                <button type="submit" class="btn btn-primary">Buscar</button>
+            </div>
+        </div>
+    </form>
+    @if (Model.Resultados != null && Model.Resultados.Any())
+    {
+        <div class="mt-4">
+            <h3>Resultados</h3>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Nombre</th>
+                        <th>Usuario</th>
+                        <th>Categoría</th>
+                        <th>Fecha Creación</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var doc in Model.Resultados)
+                    {
+                        <tr>
+                            <td>@doc.Nombre</td>
+                            <td>@doc.Usuario.Nombre</td>
+                            <td>@doc.Categoria.Nombre</td>
+                            <td>@doc.FechaCreacion.ToShortDateString()</td>
+                            <td>
+                                <button type="button" class="btn btn-sm btn-info ver-documento"
+                                        data-url="@doc.Copia"
+                                        data-nombre="@doc.Nombre">
+                                    Ver
+                                </button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+</div>
+
+<!-- Modal para visualizar documentos -->
+<div class="modal fade" id="documentoModal" tabindex="-1" role="dialog" aria-labelledby="documentoModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="documentoModalLabel"></h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <iframe id="documentViewer" style="width: 100%; height: 80vh; border: none;"></iframe>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function() {
+            $('.ver-documento').click(function() {
+                var url = $(this).data('url');
+                var nombre = $(this).data('nombre');
+
+                $('#documentoModalLabel').text(nombre);
+                $('#documentViewer').attr('src', url);
+                $('#documentoModal').modal('show');
+            });
+        });
+    </script>
+}

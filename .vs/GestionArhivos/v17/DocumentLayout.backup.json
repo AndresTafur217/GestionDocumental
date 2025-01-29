@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\views\\autenticacion\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:views\\autenticacion\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\controllers\\documentoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:controllers\\documentoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\views\\documentoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:views\\documentoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\views\\documentos\\buscar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:views\\documentos\\buscar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\views\\autenticacion\\recuperarcontrase\u00F1a.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:views\\autenticacion\\recuperarcontrase\u00F1a.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\views\\autenticacion\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:views\\autenticacion\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\views\\autenticacion\\cambiarcontrase\u00F1a.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:views\\autenticacion\\cambiarcontrase\u00F1a.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\controllers\\documentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:controllers\\documentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\models\\documentosearchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:models\\documentosearchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\data\\gestiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:data\\gestiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\controllers\\autenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:controllers\\autenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\models\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:models\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\models\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:models\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\views\\documentoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:views\\documentoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\views\\documentoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:views\\documentoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|c:\\users\\cootransbel\\source\\repos\\gestionarhivos\\views\\documentoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B1D9590-F92F-4471-B473-5BBF0B98B100}|GestionArhivos.csproj|solutionrelative:views\\documentoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Views\\Autenticacion\\Registro.cshtml",
+              "RelativeDocumentMoniker": "Views\\Autenticacion\\Registro.cshtml",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Views\\Autenticacion\\Registro.cshtml",
+              "RelativeToolTip": "Views\\Autenticacion\\Registro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T13:49:43.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RecuperarContrase\u00F1a.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Views\\Autenticacion\\RecuperarContrase\u00F1a.cshtml",
+              "RelativeDocumentMoniker": "Views\\Autenticacion\\RecuperarContrase\u00F1a.cshtml",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Views\\Autenticacion\\RecuperarContrase\u00F1a.cshtml",
+              "RelativeToolTip": "Views\\Autenticacion\\RecuperarContrase\u00F1a.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T13:49:40.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Views\\Autenticacion\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Autenticacion\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Views\\Autenticacion\\Login.cshtml",
+              "RelativeToolTip": "Views\\Autenticacion\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T13:49:38.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Views\\Documentoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Documentoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Views\\Documentoes\\Create.cshtml",
+              "RelativeToolTip": "Views\\Documentoes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T18:43:36.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Controllers\\DocumentoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DocumentoesController.cs",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Controllers\\DocumentoesController.cs",
+              "RelativeToolTip": "Controllers\\DocumentoesController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:53:37.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T16:45:45.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:49:11.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Buscar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Views\\Documentos\\Buscar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Documentos\\Buscar.cshtml",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Views\\Documentos\\Buscar.cshtml",
+              "RelativeToolTip": "Views\\Documentos\\Buscar.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T13:49:47.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CambiarContrase\u00F1a.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Views\\Autenticacion\\CambiarContrase\u00F1a.cshtml",
+              "RelativeDocumentMoniker": "Views\\Autenticacion\\CambiarContrase\u00F1a.cshtml",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Views\\Autenticacion\\CambiarContrase\u00F1a.cshtml",
+              "RelativeToolTip": "Views\\Autenticacion\\CambiarContrase\u00F1a.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T13:49:31.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DocumentoSearchViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Models\\DocumentoSearchViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\DocumentoSearchViewModel.cs",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Models\\DocumentoSearchViewModel.cs",
+              "RelativeToolTip": "Models\\DocumentoSearchViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:49:02.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DocumentosController.cs",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Controllers\\DocumentosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DocumentosController.cs",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Controllers\\DocumentosController.cs",
+              "RelativeToolTip": "Controllers\\DocumentosController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:45:45.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AutenticacionController.cs",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Controllers\\AutenticacionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AutenticacionController.cs",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Controllers\\AutenticacionController.cs",
+              "RelativeToolTip": "Controllers\\AutenticacionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:43:33.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "gestionDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Data\\gestionDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\gestionDBContext.cs",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Data\\gestionDBContext.cs",
+              "RelativeToolTip": "Data\\gestionDBContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:48:17.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:46:50.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T22:32:45.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T18:32:53.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:47:40.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T15:15:35.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Documento.cs",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Models\\Documento.cs",
+              "RelativeDocumentMoniker": "Models\\Documento.cs",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Models\\Documento.cs",
+              "RelativeToolTip": "Models\\Documento.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwCYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:46:23.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Permisos.cs",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Models\\Permisos.cs",
+              "RelativeDocumentMoniker": "Models\\Permisos.cs",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Models\\Permisos.cs",
+              "RelativeToolTip": "Models\\Permisos.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:59:55.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Views\\Documentoes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Documentoes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Views\\Documentoes\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Documentoes\\Edit.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T20:29:08.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Views\\Documentoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Documentoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Views\\Documentoes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Documentoes\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwCYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T20:59:36.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Views\\Documentoes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Documentoes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Cootransbel\\source\\repos\\GestionArhivos\\Views\\Documentoes\\Details.cshtml",
+              "RelativeToolTip": "Views\\Documentoes\\Details.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwEMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T20:49:42.167Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

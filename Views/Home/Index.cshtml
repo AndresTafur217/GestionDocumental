@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="nav-item">
+        <span class="navbar-text me-3">
+            ¡Hola!, @Context.Session.GetString("UserName")
+        </span>
+    </h1>
+</div>

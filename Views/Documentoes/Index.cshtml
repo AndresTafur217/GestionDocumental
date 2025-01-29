@@ -1,0 +1,49 @@
+﻿@model IEnumerable<GestionArhivos.Models.Documento>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Ubicación del archivo</th>
+            <th>Archivo</th>
+            <th>Categoria</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+                <td>@Html.DisplayFor(modelItem => item.Ruta)</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(item.Copia))
+                    {
+                        <a asp-action="DownloadFile" asp-route-id="@item.Id" class="btn btn-sm btn-success">
+                            <i class="bi bi-download"></i> Descargar <i class="fa-solid fa-download text-light"></i>
+                        </a>
+                    }
+                    else
+                    {
+                        <span>No hay archivo</span>
+                    }
+                </td>
+                <td>@Html.DisplayFor(modelItem => item.Categoria.Nombre)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning"><i class="fa-solid fa-pen-to-square text-light"></i></a> |
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm bg-primary"><i class="fa-solid fa-circle-info text-light"></i></a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm bg-danger"><i class="fa-solid fa-trash-can text-light"></i></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,2 @@
+usuario para la red es AdministradorEDS
+pass:eds o EDS
